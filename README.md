@@ -1,4 +1,4 @@
-# Sale_data_analysis
+# Sale Data analysis
 
 数据源：巴西某汽车服务类连锁店。
 
@@ -7,6 +7,7 @@
 模型应用：
 
 利用K-mean算法进行对用户以及产品分类：用户RFM模型，产品CFM模型。
+
 利用ARIMA时间序列分析。
 
 主要结论：
