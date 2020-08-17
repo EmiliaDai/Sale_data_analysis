@@ -6,9 +6,9 @@ Analysis dimensions: sales, customer and products.
 
 Model application:
 
-1.Use K-mean algorithm to classify users and products:  RFM model, product CFM model.
+   1.Use K-mean algorithm to classify users and products:  RFM model, product CFM model.
 
-2.Use ARIMA time series analysis.
+   2.Use ARIMA time series analysis.
 
 Conclusion:
 
