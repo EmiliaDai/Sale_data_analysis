@@ -1,24 +1,25 @@
 # Sale Data analysis
 
-数据源：巴西某汽车服务类连锁店。
+Data source: An automobile service chain store in Brazil.
 
-分析维度：销售情况、客户分型以及产品。
+Analysis dimensions: sales, customer and products.
 
-模型应用：
+Model application:
 
-利用K-mean算法进行对用户以及产品分类：用户RFM模型，产品CFM模型。
+Use K-mean algorithm to classify users and products:  RFM model, product CFM model.
 
-利用ARIMA时间序列分析。
+Use ARIMA time series analysis.
 
-主要结论：
+Conclusion:
 
-	三年间销售额达到了17.8亿。
-	2017年该连锁店处于上升期，销售额、订单量呈上升状态，2018、2019年趋于平稳。
-	该连锁店的销售业绩呈现周期性，周一到星期天较高，星期日最低。
-	总体复购率达到了87.91%，用户黏性较大。
-	月初到月末的复购率达到66%以上，用户的黏性较大。
-	用户月留存率达到74%以上，老客户居多。
-	燃料类产品的销售金额、订单量位居前列。
-	畅销的产品的成本在36以下。
-	近七成的用户选择现金支付。
+Sales reached 1.78 billion in three years.
+In 2017, the chain store was in an upswing period, with sales and orders increasing, and it stabilized in 2018 and 2019.
+The chain’s sales performance is cyclical, with a high level from Monday to Sunday and a low level on Sunday.
+The overall repurchase rate has reached 87.91%, and users are relatively sticky.
+The repurchase rate from the beginning of the month to the end of the month reached more than 66%, and the stickiness of users was relatively high.
+The monthly retention rate of users is over 74%, and most of them are old customers.
+The sales amount and order volume of fuel products are in the forefront.
+The cost of the best-selling products is below 36.
+Nearly 70% of users choose to pay in cash.
+
 
