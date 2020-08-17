@@ -9,7 +9,7 @@ pd.set_option('max_colwidth', 50)
 # 设置1000列的时候才换行
 pd.set_option('display.width', 1000)
 
-# read data
+# load data
 file_path = r'~/PycharmProjects/sale_time_data/sale_data/Sales Report.csv'
 df = pd.read_csv(file_path, iterator=True,sep=';')
 #data= df.get_chunk(6000000)
